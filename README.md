@@ -1,2 +1,2 @@
 # SpringIoc
-This project implements Spring IoC with native SQL queries and Java streams, as well as API.
+This project uses Spring IoC with native SQL queries, Java streams, and API.
